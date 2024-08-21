@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+body {
+  background: hsl(30, 54%, 90%);
+  font-family: "Outfit";
+  margin: 0;
+  padding: 0;
+}
+
+.simple-omelette {
+  margin: 25px 0;
+}
+.negrito {
+  color: hsl(24, 5%, 18%);
+  font-weight: 700;
+}
+
+.div-pai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 12px;
+  padding: 40px;
+  margin:  0 550px 0 550px;
+}
+
+.div-preparate-time {
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 12px;
+  padding: 12px;
+  margin: 25px 0;
+}
+
+.div-preparate-time li::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+.ingredients {
+  margin: 25px 0;
+}
+
+.nutrition {
+  margin: 25px 0;
+}
+
+.instructions {
+  margin: 25px 0;
+}
+
+.bottom-border {
+  border-bottom: 1px solid hsla(14, 45%, 36%, 0.149);
+  display: block;
+  padding: 10px;
+}
+
+h1,
+h2 {
+  font-family: "Young Serif";
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+h2 {
+  color: hsl(14, 45%, 36%);
+}
+
+h3 {
+  color: hsl(332, 51%, 32%);
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  color: hsl(24, 5%, 18%);
+}
+
+span {
+  font-weight: 600;
+  color: hsl(14, 45%, 36%);
+  display: inline-block;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin: auto;
+}
+
+.listas {
+  padding-left: 1.2em; /* Ajuste este valor conforme necessário */
+  margin: 0;
+}
+
+.listas li {
+  margin: 10px;
+}
+
+li::marker {
+  color: hsl(14, 45%, 36%);
+}
+
+.attribution {
+  padding: 15px;
+  font-size: 1rem;
+  display: block;
+  text-align: center;
+}
+
+.attribution a{
+ text-decoration: none;
+}
+
+.quantidade p {
+  color: hsl(14, 45%, 36%);
+  font-weight: 700;
+}
+
+th {
+  text-align: left;
+  font-weight: 400;
+}
+
+td {
+  padding: 0px 0px 0px 400px;
+  font-weight: 700;
+  color: hsl(14, 45%, 36%);
+}
+
+th,
+td {
+  border-bottom: 1px solid hsla(14, 45%, 36%, 0.21);
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
