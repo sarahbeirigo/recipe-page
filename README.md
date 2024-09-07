@@ -11,10 +11,6 @@ Esta é uma solução para o desafio [Recipe Page no Frontend Mentor](https://ww
 
 ![Recipe Page Preview](./assets/images/preview.png) <!-- Substitua pela URL correta da imagem de pré-visualização -->
 
-## 📋 Descrição do Projeto
-
-O projeto **Recipe Page** visa fornecer uma página acessível para exibir uma ou mais receitas culinárias, com a lista de ingredientes, passos para o preparo e imagens ilustrativas. Todo o layout foi desenvolvido utilizando HTML semântico e estilizado com CSS, sem o uso de bibliotecas ou frameworks adicionais.
-
 ## 🔧 Tecnologias Utilizadas
 
 - **HTML5** - Para a estruturação do conteúdo
