@@ -31,7 +31,7 @@ O projeto **Recipe Page** visa fornecer uma página acessível para exibir uma o
 ### Links
 
 - [URL DESAFIO](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm/hub)
-- [MINHA SOLUÇÃO]([https://sua-url-do-site-ao-vivo.com](https://recipe-page-mu-two.vercel.app/))
+- [MINHA SOLUÇÃO](https://recipe-page-mu-two.vercel.app/)
 
 
 ### ✍️ Aprendizado
