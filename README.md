@@ -78,5 +78,5 @@ Se você quiser saber mais sobre o projeto ou entrar em contato:
 <a href = "mailto:sarahcbeirigo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sarah-beirigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
-<p align="center">👩🏼‍💻 Coded by <a href="https://github.com/sarahbeirigo">Sarah Beirigo</a></p>
+<p align="center">👩🏼‍💻 code by <a href="https://github.com/sarahbeirigo">Sarah Beirigo</a></p>
 
