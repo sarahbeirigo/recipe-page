@@ -118,6 +118,7 @@ li::marker {
 
 .attribution a{
  text-decoration: none;
+ color: hsl(14, 45%, 36%) ;
 }
 
 .quantidade p {
